@@ -10,17 +10,17 @@ In most research texts, the use of technical vocabulary is very common, because 
 There are variety of models provided by huggingface that have the ability to paraphrase to rephrase a text with the combination of machine learning and natural language processing.  
 
 On the basis of temperature, k-top and other useful parameters, you can try different modes of paraphrasing from <a href="http://aiarticlespinner.co/">article spinner</a> or rephraser: 
-<li>
-<ul>HUMAN</ul> 
+<ul>
+<li>HUMAN</li> 
 
-<ul>AI ROBOT</ul>  
+<li>AI ROBOT</li>  
 
-<ul>REMOVE PLAGIARISM</ul> 
+<li>REMOVE PLAGIARISM</li> 
 
-<ul>FIX GRAMMAR</ul> 
+<li>FIX GRAMMAR</li> 
 
-<ul>FIX SENTENCE STRUCTURE</ul>
- </li>
+<li>FIX SENTENCE STRUCTURE</li>
+ </ul>
 
 GPT-3 is the neural network that has a lot of parameters with very large dataset. It has 175 billion parameters and responds very efficiently to different types of input. 
 
@@ -32,7 +32,7 @@ T5
 
 Pegasus 
 
-You need to fine-tune the model, but you must fine-tune the pre-trained models on large data sets. Using GPT-3, you don't need to fine-tune any model to perform this task, and it is fast and simple. 
+You need to fine-tune the model, but you must fine-tune the pre-trained models on large data sets. Using <a href="https://huggingface.co/transformers/model_doc/flaubert.html">GPT-3</a>, you don't need to fine-tune any model to perform this task, and it is fast and simple. 
 
 Here is an example of paraphrasing example: 
 
