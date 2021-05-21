@@ -9,7 +9,7 @@ In most research texts, the use of technical vocabulary is very common, because 
 
 There are variety of models provided by huggingface that have the ability to paraphrase to rephrase a text with the combination of machine learning and natural language processing.  
 
-On the basis of temperature, k-top and other useful parameters, you can try different modes of paraphrasing from article spinner or rephraser: 
+On the basis of temperature, k-top and other useful parameters, you can try different modes of paraphrasing from <b>article spinner</b> or rephraser: 
 
 HUMAN 
 
