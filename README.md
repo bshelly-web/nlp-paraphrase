@@ -40,8 +40,8 @@ Article: “Searching a specific search tree for a binary key can be programmed 
 
 Paraphrase: “Searching a specific search tree according to a binary key can be recursively or iteratively programmed.” 
 
-Coming Soon: 
+<b><h2>Coming Soon:</h2></b> 
 
-API for paraphrasing 
+<ul><li>API for paraphrasing</ul></li> 
 
  
